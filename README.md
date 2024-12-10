@@ -1,8 +1,3 @@
----
-layout: default
-title: "Coming Soon"
----
-
 # ETHICAL ARSENAL
 
 Welcome to **ETHICAL ARSENAL**.
