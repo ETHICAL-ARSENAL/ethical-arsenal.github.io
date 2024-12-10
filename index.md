@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Coming Soon"
+title: ETHICAL ARSENAL
+description: Repository of characteristics for hardware hacking devices, firmwares, and modules.
 ---
 
 # ETHICAL ARSENAL
