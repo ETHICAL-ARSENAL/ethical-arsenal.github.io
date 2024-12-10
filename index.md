@@ -20,6 +20,6 @@ Here, you will soon find a comprehensive repository of characteristics for hardw
 - **Recommendations** for tools, devices, and hardware hacking accessories.
 
 Stay tuned! 🚀
-
+ 
 ---
 📅 Last updated: {{ site.time | date: "%B %d, %Y" }}
